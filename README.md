@@ -3,6 +3,10 @@ mq-mft-file-ordering
 This repository contains an exit for MQ Managed File Transfer, that
 can assist with ordering the files that are transferred.
 
+Important NOTE: 
+==============
+This repo is just a placeholder for now. The actual code will be pushed soon.
+
 
 Pull requests                                                                                           
 =============                                                                                           
