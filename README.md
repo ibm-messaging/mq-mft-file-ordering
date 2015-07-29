@@ -5,7 +5,7 @@ can assist with ordering the files that are transferred.
 
 Important NOTE: 
 ==============
-This repo is just a placeholder for now. The actual code will be pushed soon.
+This repository is just a placeholder for now. The actual code will be pushed soon.
 
 
 Pull requests                                                                                           
