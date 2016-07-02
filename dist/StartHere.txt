@@ -1,0 +1,1 @@
+To get started with File Ordering MQMFT Exit, read FileOrderingMqmftExit_r3.0.pdf.
