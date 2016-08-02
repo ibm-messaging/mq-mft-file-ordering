@@ -1,6 +1,8 @@
 mq-mft-file-ordering
 ====================
-This repository contains an exit for MQ Managed File Transfer (MQMFT): File Ordering MQMFT Exit.  In a transfer involving multiple files, MQMFT by default will transfer each of the files in ascending order by path name.  This exit allows the user to dynamically specify the order in which MQMFT transfers the files, based on the source files’ names, paths, sizes, and last modified timestamps.  Optionally, the user can also use a positioning capability to specify input files that should be transferred first and/or last, regardless of the sorting instructions; for example, a user might wish a summary file with an extension of “.sum” to arrive before companion files that contain the details.
+This repository contains an exit for MQ Managed File Transfer (MQMFT): File Ordering MQMFT Exit. In a transfer involving multiple files, MQMFT by default will transfer each of the files in ascending order by path name. This exit allows the user to dynamically specify sorting instructions for MQMFT to apply when transferring files, based on the source files’ names, paths, sizes, and last modified timestamps; for example, a user might want MQMFT to move files in ascending order by size, with the smallest file arriving at the destination first and the biggest file last. Optionally, the user can also use a positioning capability to specify input files that should be transferred first and/or last, regardless of the sorting instructions; for example, a user might wish a summary file with an extension of “.sum” to arrive before companion files that contain the details. 
+
+Download it here.
 
 Thanks for checking it out! 
 
