@@ -1,3 +1,3 @@
-function returnString(variable) {
+function returnString() {
     return "hello from javascript";
 }
