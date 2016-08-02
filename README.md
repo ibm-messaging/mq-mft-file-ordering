@@ -8,11 +8,7 @@ Thanks for checking it out!
 -- Steve Parsons
 
  <p>
- <script type="text/javascript">function myfunction()
-{
-return ("Hello, have a nice day!")
-}
-</script>
+ <iframe src="https://api.github.com/repos/ibm-messaging/mq-mft-file-ordering/releases/latest"></iframe>
  </p>
  
 
