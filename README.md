@@ -4,6 +4,8 @@ This repository contains an exit for MQ Managed File Transfer (MQMFT): File Orde
 
 Download it from https://github.com/ibm-messaging/mq-mft-file-ordering/releases/download/v3.0/FileOrderingMqmftExit_v3.0.zip.
 
+<button onclick="https://github.com/ibm-messaging/mq-mft-file-ordering/releases/download/v3.0/FileOrderingMqmftExit_v3.0.zip';">Download File Ordering MQMFT Exit</button>
+
 Thanks for checking it out! 
 
 -- Steve Parsons
