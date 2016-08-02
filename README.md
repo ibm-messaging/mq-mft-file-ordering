@@ -11,6 +11,12 @@ Thanks for checking it out!
 
 -- Steve Parsons
 
- 
+ <p>
+ <script type="text/javascript">function myfunction()
+{
+return ("Hello, have a nice day!")
+}
+</script>
+ </p>
  
 
