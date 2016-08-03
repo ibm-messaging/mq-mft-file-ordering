@@ -82,7 +82,7 @@ function showStats(data) {
          //   totalHTML += "<h2><span class='glyphicon glyphicon-download'></span>" +
          //       "&nbsp&nbspTotal Downloads</h2> ";
          //   totalHTML += "<span>" + totalDownloadCount + "</span>";
-			totalHTML += "&nbsp&nbspTotal Downloads: " + totalDownloadCount + "</div>";
+			totalHTML += "&nbsp&nbspTotal downloads: " + totalDownloadCount + "</div>";
          //   totalHTML += "</div>";
             html = totalHTML + html;
         }
