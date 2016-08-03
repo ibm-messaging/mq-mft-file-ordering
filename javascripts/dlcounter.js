@@ -26,8 +26,8 @@ function showStats(data) {
         $.each(data, function(index, item) {
            // var releaseTag = item.tag_name;
            // var releaseURL = item.html_url;
-           // var releaseAssets = item.assets;
-           // var hasAssets = releaseAssets.length != 0;
+            var releaseAssets = item.assets;
+            var hasAssets = releaseAssets.length != 0;
            // var releaseAuthor = item.author;
            // var publishDate = item.published_at.split("T")[0];
 
