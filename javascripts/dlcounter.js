@@ -79,10 +79,11 @@ function showStats(data) {
         if(totalDownloadCount > 0) {
             totalDownloadCount = totalDownloadCount.toString().replace(/(\d)(?=(\d{3})+$)/g, '$1,');
             var totalHTML = "<div class='row total-downloads'>";
-            totalHTML += "<h2><span class='glyphicon glyphicon-download'></span>" +
-                "&nbsp&nbspTotal Downloads</h2> ";
-            totalHTML += "<span>" + totalDownloadCount + "</span>";
-            totalHTML += "</div>";
+         //   totalHTML += "<h2><span class='glyphicon glyphicon-download'></span>" +
+         //       "&nbsp&nbspTotal Downloads</h2> ";
+         //   totalHTML += "<span>" + totalDownloadCount + "</span>";
+			totalHTML += "&nbsp&nbspTotal Downloads: " + totalDownloadCount + "</div>";
+         //   totalHTML += "</div>";
             html = totalHTML + html;
         }
 
