@@ -93,7 +93,7 @@ function showStats(data) {
     resultDiv.hide();
     resultDiv.html(html);
   //  $("#loader-gif").hide();
-  //  resultDiv.slideDown();
+    resultDiv.slideDown();
 }
 
 // Callback function for getting release stats
