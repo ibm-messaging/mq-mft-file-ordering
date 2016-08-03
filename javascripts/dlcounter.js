@@ -98,7 +98,7 @@ function showStats(data) {
 
 // Callback function for getting release stats
 function getStats() {
-    var url = "https://api.github.com/repos/ibm-messaging/mq-mft-file-ordering/releases/latest";
+    var url = "https://api.github.com/repos/ibm-messaging/mq-mft-file-ordering/releases";
     $.getJSON(url, showStats).fail(showStats);
 }
 
