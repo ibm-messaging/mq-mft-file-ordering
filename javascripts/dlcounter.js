@@ -9,7 +9,7 @@ function showStats(data) {
         errMessage = "The project does not exist!";
     }
 
- //   if(data.length == 0) {
+//    if(data.length == 0) {
         err = true;
         errMessage = "There are no releases for this project";
 //    }
