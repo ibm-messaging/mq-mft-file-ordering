@@ -13,7 +13,7 @@ function showStats(data) {
 
     if(data.length == 0) {
         err = true;
-        errMessage = "There are no releases for this project";
+        errMessage = "No download data available.";
     }
 
     var html = '';
