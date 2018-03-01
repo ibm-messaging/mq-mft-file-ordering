@@ -1,4 +1,4 @@
-<table><tr><td><h1><b>File Ordering MQMFT Exit</b></h1></td><td><h1><b> <a href="https://github.com/ibm-messaging/mq-mft-file-ordering/releases/download/v3.1/FileOrderingMqmftExit_r3.1.zip"><img src="DownloadButton.png"/></b></h1></td></tr></table>
+<table><tr><td><h1><b>File Ordering MQMFT Exit</b></h1></td><td><h1><b> <a href="https://github.com/ibm-messaging/mq-mft-file-ordering/releases/download/v3.2/FileOrderingMqmftExit_r3.2.zip"><img src="DownloadButton.png"/></b></h1></td></tr></table>
 
 * * * 
  
