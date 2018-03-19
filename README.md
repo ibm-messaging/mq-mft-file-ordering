@@ -6,7 +6,7 @@ This MQ Managed File Transfer (MQMFT) exit enables the user to control the order
 
 See also the GitHub Pages site for this repository: [https://ibm-messaging.github.io/mq-mft-file-ordering](https://ibm-messaging.github.io/mq-mft-file-ordering)
 
-Initial public release: 24 July 2016.
+First public release: 24 July 2016.
 
 ## Contributions
 
